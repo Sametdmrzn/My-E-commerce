@@ -17,3 +17,12 @@ Backend ürün verilerini MongoDB’de saklar, frontend ise bu verileri listeler
 ```bash
 node -v
 npm -v
+
+## kurulum ve çalıştırma
+-git clone https://github.com/<kullaniciAdi>/My-E-commerce.git
+-cd My-E-commerce
+
+
+##backend kurulumu ve çalıştırma
+-cd backend
+-npm install
